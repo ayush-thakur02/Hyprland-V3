@@ -32,7 +32,6 @@ noto-fonts-emoji lxappearance xfce4-settings sddm-git sddm-sugar-candy-git
 Or you can use the attached script "set-hypr" to install everything for you.
 
 ### Default Wallpapers
-<a href="https://ibb.co/0BKnDMh"><img src="https://i.ibb.co/gvdrjTz/v1-background.jpg" alt="v1-background" border="0"></a>
 <a href="https://ibb.co/jM6fLzj"><img src="https://i.ibb.co/fp1FC9T/v1-background-dark.jpg" alt="v1-background-dark" border="0"></a>
 <a href="https://ibb.co/NYr3NnP"><img src="https://i.ibb.co/0JKX9VS/v2-background.jpg" alt="v2-background" border="0"></a>
 <a href="https://ibb.co/KwgRVCm"><img src="https://i.ibb.co/jRYB37H/v2-background-dark.jpg" alt="v2-background-dark" border="0"></a>
